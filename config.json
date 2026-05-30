@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsalidate",
+        "uuid": 1885113,
+        "checksum": "4cvfyi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
